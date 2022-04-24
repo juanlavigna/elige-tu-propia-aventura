@@ -2,6 +2,9 @@
     text-align: center;
     margin-top: 15%;
 }
+body{
+    font-family: 'Caveat', cursive;
+}
 .fondo-claro{
     background-color: rgba(255, 255, 255, 0.4);
 }
@@ -10,6 +13,9 @@
     margin-left: 8%;
     margin-right: 8%;
 }
-#boton-comenzar{
-    color: blueviolet;
+.boton-inicio{
+    background-color: rgb(218, 206, 206);
+    top: 50%;
+    border:none;
+    border-radius:10px;
 }
